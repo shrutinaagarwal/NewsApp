@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHRUTINA\Downloads\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\SHRUTINA\Downloads\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_b79c90dab02f4c666edc3ccb1b068a61cdc2d7e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHRUTINA\Downloads\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\SHRUTINA\Downloads\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_a042eb4f8d93a383eb7a584791730afa77ed85b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHRUTINA\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\SHRUTINA\Downloads\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_2a1262af8aa6adf8ceabdc038dc7f143c9a5353e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHRUTINA\Downloads\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\SHRUTINA\Downloads\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_b6a53b163239abcba1afbfb628ef8884c12e8368\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHRUTINA\Downloads\NewsApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="77c0d22b590e8031a169f87c42da8e9408a0793b">
+        <dex dex="C:\Users\SHRUTINA\Downloads\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_894dbef63bc53d3685773bc9b1ed19e83d31cb4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHRUTINA\Downloads\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\SHRUTINA\Downloads\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_609ade5cde2f6c82b7396624aebaccbccc7ecbaf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHRUTINA\Downloads\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\SHRUTINA\Downloads\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_9ab97b4e1ae27a5bcb873ad6a946e9492cf641f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHRUTINA\Downloads\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\SHRUTINA\Downloads\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_16b847703218d45f243a5e06cc99bf066e2de980\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHRUTINA\Downloads\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\SHRUTINA\Downloads\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_affdcbd3ce70887af11781cb41029a163ecd06a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHRUTINA\Downloads\NewsApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\SHRUTINA\Downloads\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_a3579f47ac44df8de8ee4ca0e6b0b1119f82dabd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHRUTINA\Downloads\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\SHRUTINA\Downloads\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_b9a08a0f2c437720ab0d583208cb641dd11f99de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHRUTINA\Downloads\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\SHRUTINA\Downloads\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_5ed5be8fbcca4b0d8d2d9fb82adc6bea0b601db0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHRUTINA\Downloads\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\SHRUTINA\Downloads\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_c44c19ca075eb8f29dd7b6e97b6a90324ee25163\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHRUTINA\Downloads\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\SHRUTINA\Downloads\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_dadf2d6252e6b347d5636d555c7eae4c7ea449d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHRUTINA\Downloads\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\SHRUTINA\Downloads\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_b926f4c4e3d900739f5f1293bdb51f855b23afb4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHRUTINA\Downloads\NewsApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\SHRUTINA\Downloads\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_ee636272f484734e39c5e4b46b714e3a29e0e026\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHRUTINA\Downloads\NewsApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7ad037ecd59f6d0d0aa3561218f2845e5108cba6">
+        <dex dex="C:\Users\SHRUTINA\Downloads\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_86101c97990079b46abcb645172b35ae2a654324\classes.dex" />
+    </item>
+
+</items>
